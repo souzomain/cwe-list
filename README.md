@@ -1,2 +1,2 @@
 # cwe-list
-List of cwe in json
+A list of cwe in json
